@@ -5,9 +5,14 @@
 }
 
 header {
+  text-align: center;
   height: 70px;
   width: 100%;
   background-color: #ec715f;
+}
+
+body {
+  text-align: center;
 }
 
 .navbar {
@@ -173,10 +178,10 @@ header {
 .sns-icon {
   width: 50px;
   height: 50px;
-  padding: 0px 20px 0px 20px;
 }
 
 footer {
+  text-align: center;
   background-color: #ec715f;
   height: 60px;
   width: 100%;
